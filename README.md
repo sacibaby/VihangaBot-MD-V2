@@ -1,4 +1,4 @@
-# VIHANGA-BOT-MD
+# SUNETH-BOT-MD
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
@@ -16,7 +16,7 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/THTK67m/Vihanga-MD.png" alt="GIF" width="300" height="270"/>
+<img src="https://shakejump.com/wp-content/uploads/dont-know-how-to-not-love-you.png" alt="GIF" width="300" height="270"/>
 
 </p>
 
